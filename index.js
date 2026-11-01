@@ -13,6 +13,7 @@ app.use(cookieParser());
 const corsOptions = {
   origin: [
     'https://www.demo.noyela.com',
+    'https://demo.noyela.com',
     'https://www.noyela.com',
     'https://autotrends.ai',
     'http://localhost:5173',
